@@ -1,4 +1,4 @@
-#Tugas Personal Week 2 - Data Structures and Algorithm Analysis
+# Tugas Personal Week 2 - Data Structures and Algorithm Analysis
 
 Program ini menggunakan konsep Object-Oriented Programming dengan membuat class Mahasiswa yang memiliki atribut nama, NIM, jurusan, dan IPK.
 
